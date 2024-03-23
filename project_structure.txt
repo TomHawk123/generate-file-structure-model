@@ -1,0 +1,8 @@
+.
+├── .gitignore
+├── .structureignore
+├── generate_file_structure.py
+├── LICENSE
+├── project_structure.txt
+├── pyproject.toml
+└── README.md

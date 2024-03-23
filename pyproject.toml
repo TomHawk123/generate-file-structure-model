@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "generate-file-structure-model"
+version = "0.1.0"
+description = "Util to generate a file structure model of a given file/path; recursively."
+authors = ["TomHawk123 <matthew.mcmorries@gmail.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
